@@ -1,5 +1,5 @@
 # RxParchmentDataSources
-Rx Wrapper for [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment)
+A reactive wrapper built around [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment)
 
 # Usage
 
